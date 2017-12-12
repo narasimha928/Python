@@ -1,6 +1,3 @@
-ipv6 interface "Edge41" vlan 1641
-ipv6 address 2680:db8:70:41::1111/64 "Edge41" 
-
 #Version 0.5.4
 
 version = "0.5.4"
